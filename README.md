@@ -3,10 +3,7 @@
 # FRONTEND  WEB DEVELOPMENT  JULY BATCH  2021
 
 
-# Project  Name 
-
-# Incredible  India
-
+# Project Name : Incredible  India
 
 # PROJECT  DESCRIPTION
 
